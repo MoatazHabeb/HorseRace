@@ -259,7 +259,7 @@ pip install -r requirements.txt
 Run the server
 
 ```bash
-uvicorn main:app --reload
+uvicorn horse.main:app --reload
 ```
 
 Swagger UI
